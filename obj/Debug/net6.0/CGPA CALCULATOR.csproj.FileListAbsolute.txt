@@ -1,0 +1,30 @@
+C:\Users\user\Desktop\CGPA CALCULATOR\obj\Debug\net6.0\CGPA CALCULATOR.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\CGPA CALCULATOR\obj\Debug\net6.0\CGPA CALCULATOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CGPA CALCULATOR\obj\Debug\net6.0\CGPA CALCULATOR.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CGPA CALCULATOR\obj\Debug\net6.0\CGPA CALCULATOR.AssemblyInfo.cs
+C:\Users\user\Desktop\CGPA CALCULATOR\obj\Debug\net6.0\CGPA CALCULATOR.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CGPA CALCULATOR\bin\Debug\net6.0\CGPA CALCULATOR.exe
+C:\Users\user\Desktop\CGPA CALCULATOR\bin\Debug\net6.0\CGPA CALCULATOR.deps.json
+C:\Users\user\Desktop\CGPA CALCULATOR\bin\Debug\net6.0\CGPA CALCULATOR.runtimeconfig.json
+C:\Users\user\Desktop\CGPA CALCULATOR\bin\Debug\net6.0\CGPA CALCULATOR.dll
+C:\Users\user\Desktop\CGPA CALCULATOR\bin\Debug\net6.0\CGPA CALCULATOR.pdb
+C:\Users\user\Desktop\CGPA CALCULATOR\obj\Debug\net6.0\CGPA CALCULATOR.dll
+C:\Users\user\Desktop\CGPA CALCULATOR\obj\Debug\net6.0\refint\CGPA CALCULATOR.dll
+C:\Users\user\Desktop\CGPA CALCULATOR\obj\Debug\net6.0\CGPA CALCULATOR.pdb
+C:\Users\user\Desktop\CGPA CALCULATOR\obj\Debug\net6.0\CGPA CALCULATOR.genruntimeconfig.cache
+C:\Users\user\Desktop\CGPA CALCULATOR\obj\Debug\net6.0\ref\CGPA CALCULATOR.dll
+C:\Users\user\Desktop\CGPA CALCULATOR - Copy\obj\Debug\net6.0\CGPA CALCULATOR.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\CGPA CALCULATOR - Copy\obj\Debug\net6.0\CGPA CALCULATOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CGPA CALCULATOR - Copy\obj\Debug\net6.0\CGPA CALCULATOR.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CGPA CALCULATOR - Copy\obj\Debug\net6.0\CGPA CALCULATOR.AssemblyInfo.cs
+C:\Users\user\Desktop\CGPA CALCULATOR - Copy\obj\Debug\net6.0\CGPA CALCULATOR.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CGPA CALCULATOR - Copy\obj\Debug\net6.0\CGPA CALCULATOR.dll
+C:\Users\user\Desktop\CGPA CALCULATOR - Copy\obj\Debug\net6.0\refint\CGPA CALCULATOR.dll
+C:\Users\user\Desktop\CGPA CALCULATOR - Copy\obj\Debug\net6.0\CGPA CALCULATOR.pdb
+C:\Users\user\Desktop\CGPA CALCULATOR - Copy\bin\Debug\net6.0\CGPA CALCULATOR.exe
+C:\Users\user\Desktop\CGPA CALCULATOR - Copy\bin\Debug\net6.0\CGPA CALCULATOR.deps.json
+C:\Users\user\Desktop\CGPA CALCULATOR - Copy\bin\Debug\net6.0\CGPA CALCULATOR.runtimeconfig.json
+C:\Users\user\Desktop\CGPA CALCULATOR - Copy\bin\Debug\net6.0\CGPA CALCULATOR.dll
+C:\Users\user\Desktop\CGPA CALCULATOR - Copy\bin\Debug\net6.0\CGPA CALCULATOR.pdb
+C:\Users\user\Desktop\CGPA CALCULATOR - Copy\obj\Debug\net6.0\CGPA CALCULATOR.genruntimeconfig.cache
+C:\Users\user\Desktop\CGPA CALCULATOR - Copy\obj\Debug\net6.0\ref\CGPA CALCULATOR.dll
